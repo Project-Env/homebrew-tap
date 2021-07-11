@@ -1,4 +1,4 @@
-VERSION="3.0.1"
+VERSION="3.0.2"
 URL="https://github.com/Project-Env/project-env-shell/releases/download/v${VERSION}/shell-${VERSION}-macos-amd64.tar.gz"
 
 echo "creating checksum for $URL"
