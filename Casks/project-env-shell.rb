@@ -1,6 +1,6 @@
 cask "project-env-shell" do
-  version "3.0.3"
-  sha256 "7acd78f0892bf48d2259d0c8b1693bff96477ee0793bc45a907578f3ada794c1"
+  version "3.1.0"
+  sha256 "29456ab381231a2921c41b9b223eeec058bba06d1d46974e5594ad9afb101d2d"
 
   url "https://github.com/Project-Env/project-env-shell/releases/download/v#{version}/shell-#{version}-macos-amd64.tar.gz"
 
