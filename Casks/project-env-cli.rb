@@ -1,6 +1,6 @@
 cask "project-env-cli" do
-  version "3.12.0"
-  sha256 "e176e35b89132d488d3319f20df333d15d6940117bec9b273e594d0f801b75d3"
+  version "3.13.0"
+  sha256 "16a8296971a8c4354c7b5dfce5a393a9185a1a8e20e1cf51b745d81aecaf1f07"
 
   url "https://github.com/Project-Env/project-env-cli/releases/download/v#{version}/cli-#{version}-macos-amd64.tar.gz"
   name "project-env-cli"
