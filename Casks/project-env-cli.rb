@@ -1,8 +1,8 @@
 cask "project-env-cli" do
-  version "3.19.0"
-  sha256 "a44844e83aa6141bb614ed5eee7dd1546e44101f31bada644575a4bb4bee99d3"
+  version "3.19.1"
+  sha256 "f02873f40bf15efc3a3980b4c5b4f9d18f1e369586ab2245d8bf1dae4ffbf03e"
 
-  url "https://github.com/Project-Env/project-env-cli/releases/download/v3.19.0/cli-3.19.0-macos-aarch64.tar.gz"
+  url "https://github.com/Project-Env/project-env-cli/releases/download/v3.19.1/cli-3.19.1-macos-aarch64.tar.gz"
   name "project-env-cli"
   desc "Project-Env CLI"
   homepage "https://project-env.github.io"
